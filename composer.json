@@ -1,0 +1,8 @@
+{
+	"name": "fr3nch13/vendor-bootstrap-markdown",
+	"description": "Bootstrap Markdown",
+	"homepage": "https://github.com/fr3nch13/vendor-bootstrap-markdown",
+	"keywords": ["component", "vendors", "bootstrap-markdown"],
+	"type": "component",
+	"license": "MIT",
+}
